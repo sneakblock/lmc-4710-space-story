@@ -1,0 +1,7 @@
+1. Interact with the Model House to enter the Old Storage Room. While there, pick up the Hammer and lock the door.
+2. Interact with the Model House in the Old Storage Room to return to the Modern Office. Travel to the Modern Living Room and turn off the fireplace.
+3. Enter the Modern Theater. Turn the TV on, then turn its volume to low, then turn it off again. Also pick up the Lighter.
+4. Return to the Modern Kitchen and burn the photograph.
+5. Return to the Modern Office and use the Model House to go to Old Storage. Unlock the door and travel to the Old Bedroom, then pick up the Locket. Return to the Old Living Room and throw the Locket into the furnace.
+6. Return to the Old Storage Room and use the Model House to return to the Modern Office.
+7. Use the Hammer to smash the Model House.
